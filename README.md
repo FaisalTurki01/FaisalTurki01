@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FaisalTurki01
+- 👋 Hi, I’m Faisal
 - 👀 I’m interested in Data Science , Data Analtyics
 - You can reach me at <a href = "mailto: faisalturki105@hmail.com">mail</a>
 
